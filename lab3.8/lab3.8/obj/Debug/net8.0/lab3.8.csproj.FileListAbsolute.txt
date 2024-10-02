@@ -1,0 +1,15 @@
+D:\visual studio\3lab\lab3.8\lab3.8\bin\Debug\net8.0\lab3.8.exe
+D:\visual studio\3lab\lab3.8\lab3.8\bin\Debug\net8.0\lab3.8.deps.json
+D:\visual studio\3lab\lab3.8\lab3.8\bin\Debug\net8.0\lab3.8.runtimeconfig.json
+D:\visual studio\3lab\lab3.8\lab3.8\bin\Debug\net8.0\lab3.8.dll
+D:\visual studio\3lab\lab3.8\lab3.8\bin\Debug\net8.0\lab3.8.pdb
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.AssemblyInfoInputs.cache
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.AssemblyInfo.cs
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.csproj.CoreCompileInputs.cache
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.sourcelink.json
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.dll
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\refint\lab3.8.dll
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.pdb
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\lab3.8.genruntimeconfig.cache
+D:\visual studio\3lab\lab3.8\lab3.8\obj\Debug\net8.0\ref\lab3.8.dll
